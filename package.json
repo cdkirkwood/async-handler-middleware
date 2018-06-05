@@ -1,11 +1,22 @@
 {
   "name": "async-handler-middleware",
   "version": "1.0.2",
-  "description": "",
+  "description": "Error Handler for Async Functions",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cdkirkwood/async-handler-middleware"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "keywords": [
+    "async",
+    "middleware",
+    "error handling",
+    "await",
+    "error"
+  ],
+  "author": "Connor Kirkwood",
   "license": "ISC"
 }
